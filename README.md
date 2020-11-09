@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### hi-ro-shi desu!!
+
+Manager of president's office at MILIZE inc.
+
+
 <!--
 **hi-ro-shi/hi-ro-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
