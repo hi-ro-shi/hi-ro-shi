@@ -2,8 +2,13 @@
 
 ### hi-ro-shi desu!!
 
+I was born and raised in Uguisudani.
+
 Manager of president's office at MILIZE inc.
 
+Chief BBQ Ojisan at efit inc.
+
+Twitter : https://twitter.com/katahaba54
 
 <!--
 **hi-ro-shi/hi-ro-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
