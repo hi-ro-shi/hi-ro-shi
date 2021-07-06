@@ -20,7 +20,7 @@ Twitter : https://twitter.com/katahaba54
 
 「ふざけてばかりいないで、仕事を通じて、自分以外の誰かを幸せにしたい」という思いから、2016年3月末に退職し、保険商品の販売シーンのストレスや不幸を減らしたいと、新しいサービスを作る。その過程で、転職したり、会社を作ったり、事業を買ったり、会社を売ったり・・・・
 
-その後は業務委託で死ぬほど働いてみたり、また正社員として、自社の社長まで出世することを目指して頑張りはじめました。ここまでだいぶ経歴が汚れたなぁとしみじみ。
+その後は業務委託で死ぬほど働いてみたりもしましたが、高収入よりも安定を求めて、再び正社員として、所属会社の社長まで出世することを目指して頑張りはじめました。ここまでだいぶ経歴が汚れたなぁとしみじみ。
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi-ro-shi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-ro-shi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
